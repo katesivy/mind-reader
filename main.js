@@ -10,9 +10,9 @@ var btext = "";
 var smallText = "";
 var smallBText = "";
 
-var main = ["I can read your mind", "Pick a number from 01-99", "Add both digits together to get a new number", "Subtract your new number from the original number"];
+var main = ["I can read your mind!", "Pick a number from 01-99.", "Add both digits together to get a new number.", "Subtract your new number from the original number."];
 var button = ["NEXT", "NEXT", "NEXT", "NEXT", "REVEAL", ""];
-var small = ["", "when you have your number click next", "Ex: 14 is 1 + 4 = 5 click next to proceed", "Ex: 14 - 5 = 9 click next to proceed", "Find your new number. Note the symbol by the number", "Your symbol is: "];
+var small = ["", "When you have your number click next.", "(Ex: 14 is 1 + 4 = 5) Click next to proceed.", "(Ex: 14 - 5 = 9) Click next to proceed", "Find your new number. Note the symbol by the number.", "Your symbol is: "];
 var smallButton = ["0", "BACK", "BACK", "BACK", "BACK", "BACK"];
 
 function build() {
